@@ -6,24 +6,25 @@
 [![Instagram Badge](https://img.shields.io/badge/-obrendalf-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/obrendalf)](https://instagram.com/obrendalf)
 [![Kaggle Badge](https://img.shields.io/badge/-brendalf-55ACEE?style=flat&logo=Kaggle&logoColor=white&link=https://kaggle.com/brendalf)](https://kaggle.com/brendalf)
 
-## About me
+## About me 🙋🏽‍♂️
 I have experience in the development of machine learning models and automated <br>
 deployment of models with microservices. Working as full stack developer for <br>
 more than 5 years, I gained experience in programming with clean and reusable code.
 
 Founder of NerdES, a software development company and creator of InfrAÇÕES, <br>
 a mobile app that assists more than 100k public security agents in traffic laws. 
+<br><br>
 
-## 👨‍💻 Tech Skills
+## Tech Skills 👨‍💻
 Programming: Python, JavaScript, C/C++, C#, Java, PHP, HTML/CSS (Markup).<br>
 Frameworks: React.js, React Native, Node, jQuery, Laravel.<br>
 Databases: MySQL, Hive, Oracle, Mongodb, SQLite.
+<br><br>
 
-## Preferences
-
-OS: Linux<br>
-Theme: Draculla<br>
-Editor: Visual Studio Code<br>
+## Preferences 🥰
+OS: Linux 🐧<br>
+Theme: Draculla 🧛🏻‍♂️<br>
+Editor: Visual Studio Code 📝<br>
 VSCode Extensions:
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
