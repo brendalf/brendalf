@@ -1,6 +1,6 @@
 # Breno Batista da Silva
 
-[![Linkedin Badge](https://img.shields.io/badge/-brendalf-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/obrendalf/)](https://linkedin.com/in/obrendalf/)
+[![Linkedin Badge](https://img.shields.io/badge/-obrendalf-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/obrendalf/)](https://linkedin.com/in/obrendalf/)
 [![Gmail Badge](https://img.shields.io/badge/-brenophp@gmail.com-D44638?style=flat&logo=Gmail&logoColor=white&link=mailto:brenophp@gmail.com)](mailto:brenophp@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-obrendalf-55ACEE?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/obrendalf)](https://twitter.com/obrendalf)
 [![Instagram Badge](https://img.shields.io/badge/-obrendalf-DD2A7B?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/obrendalf)](https://instagram.com/obrendalf)
