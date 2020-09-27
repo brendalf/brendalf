@@ -13,6 +13,9 @@ Founder of NerdES, a software development company and creator of InfrAÇÕES, <b
 a mobile app that assists more than 100k public security agents in traffic laws. 
 <br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=brendalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tech Skills 👨‍💻
 Programming: Python, JavaScript, C/C++, C#, Java, PHP, HTML/CSS (Markup).<br>
 Frameworks: React.js, React Native, Node, jQuery, Laravel.<br>
