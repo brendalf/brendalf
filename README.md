@@ -17,7 +17,7 @@ a mobile app that assists more than 100k public security agents in traffic laws.
 [![Github stats](https://github-readme-stats.vercel.app/api?username=brendalf&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tech Skills 👨‍💻
-Programming: Python, JavaScript, C/C++, C#, Java, PHP, HTML/CSS (Markup).<br>
+Programming: Python, JavaScript, ShellScript, C/C++, C#, Java, PHP, HTML/CSS (Markup).<br>
 Frameworks: React.js, React Native, Node, jQuery, Laravel.<br>
 Databases: MySQL, Hive, Oracle, Mongodb, SQLite.
 <br><br>
