@@ -17,7 +17,7 @@
 **Fun fact**: I was a police officer for 5 years.<br>
 
 
-I'm looking forward to collaborate in python libs for data science,
+I'm looking forward to collaborate on python libs for data science,
 javascript libs/apps for devs or c++ programs.
 
 ## Repo Stats
