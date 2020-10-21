@@ -10,7 +10,7 @@
 ![Gandalf](https://thumbs.gfycat.com/SelfreliantInfatuatedJumpingbean-max-1mb.gif)
 
 **Job**: Data Scientist @ Itaú Unibanco.<br>
-**Studying**: Computer Scientist @ UFES.<br>
+**Studying**: Computer Science @ UFES.<br>
 **OS**: Linux<br>
 **Editor**: Visual Studio Code<br>
 **Theme**: Draculla<br>
