@@ -22,4 +22,4 @@ javascript libs/apps for devs or c++ programs.
 
 ## Repo Stats
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=brendalf&show_icons=true)<br>
-[![HitCount](http://hits.dwyl.com/brendalf/brendalf.svg)](http://hits.dwyl.com/brendalf/brendalf)
+<img src="http://views.whatilearened.today/views/github/brendalf/views.svg">
