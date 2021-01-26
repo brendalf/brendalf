@@ -12,8 +12,6 @@
 **Job**: Data Scientist @ Itaú Unibanco.<br>
 **Studying**: Computer Science @ UFES.<br>
 **OS**: Linux<br>
-**Editor**: Visual Studio Code<br>
-**Theme**: Draculla<br>
 **Fun fact**: I was a police officer for 5 years.<br>
 
 
