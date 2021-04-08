@@ -1,7 +1,7 @@
 ![Gandalf](https://thumbs.gfycat.com/SelfreliantInfatuatedJumpingbean-max-1mb.gif)
 
 ## Hi, there. Brendalf here 🙋🏽‍♂️
-I have experience in the development of machine learning solutions and automated deployment with microservices. Working as a full-stack developer for more than 5 years, I gained experience in software engineering with clean and reusable code.
+I have experience in the development of machine learning solutions and automated deployment with microservices. Working as a full-stack developer for more than 5 years, I gained experience in software engineering with clean and reusable code.<br>
 I'm interested in end-to-end machine learning and data science solutions and software engineering/architecture. I like to spend my time reading, cooking, and contributing to open source initiatives.
 
 **Job**: Data Scientist @ Itaú Unibanco.<br>
