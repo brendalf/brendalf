@@ -4,7 +4,7 @@
 I have experience in the development of machine learning solutions and automated deployment with microservices. Working as a full-stack developer for more than 5 years, I gained experience in software engineering with clean and reusable code.<br>
 I'm interested in end-to-end machine learning and data science solutions and software engineering/architecture. I like to spend my time reading, cooking, and contributing to open source initiatives.
 
-**Job**: Data Scientist @ Itaú Unibanco.<br>
+**Job**: Machine Learning Engineer @ Wildlife Studios.<br>
 **Degree**: Bachelor's in Computer Science @ UFES.<br>
 **Workflow**: Linux, Tmux and Neovim.<br>
 **Fun fact**: I was a police officer for 5 years.<br>
