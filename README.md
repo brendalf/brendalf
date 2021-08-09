@@ -1,13 +1,12 @@
 ## Hi, there. Brendalf here 🙋🏽‍♂️
 
-
-I'm interested in end-to-end machine learning/data science solutions, and software engineering/architecture.<br>
-I like to spend my time reading, cooking, and contributing to open source initiatives.<br>
+Interested in end-to-end machine learning/data science solutions, and software engineering/architecturing.<br>
+Proficient in Linux, Git, Shell, and programming languages, like C++, Python, TypeScript, and Java.<br>
+I'm learning Elixir and I like to spend my time reading, cooking, and contributing to open source initiatives.<br>
 <br>
 **Job**: Machine Learning Engineer @ Wildlife Studios.<br>
 **Degree**: Bachelor's in Computer Science @ UFES.<br>
 **Workflow**: Linux, Tmux and Neovim.<br>
-**Languages**: I'm proficient in Linux, Git, Shell, and programming languages, like C++, Python, TypeScript, and Elixir.<br>
 **Fun fact**: I was a police officer for 5 years.
 
 <div>
