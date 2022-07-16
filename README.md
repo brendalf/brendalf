@@ -2,7 +2,9 @@
 
 Interested in end-to-end machine learning/data science solutions, and software engineering/architecturing.<br>
 Proficient in Linux, Git, Shell, and programming languages, like C++, Python, TypeScript, and Java.<br>
-I'm learning Elixir and I like to spend my time reading, cooking, and contributing to open source initiatives.<br>
+<br>
+I'm learning Elixir and Rust.<br>
+I like to spend my time reading, cooking, and contributing to open source initiatives.<br>
 <br>
 **Job**: Machine Learning Engineer @ Wildlife Studios.<br>
 **Degree**: Bachelor's in Computer Science @ UFES.<br>
