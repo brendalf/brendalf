@@ -6,7 +6,7 @@ Proficient in Linux, Git, Shell, and programming languages, like C++, Python, Ty
 I'm learning Elixir and Rust.<br>
 I like to spend my time reading, cooking, and contributing to open source initiatives.<br>
 <br>
-**Job**: Machine Learning Engineer @ Wildlife Studios.<br>
+**Job**: Senior Machine Learning Engineer @ Wildlife Studios.<br>
 **Degree**: Bachelor's in Computer Science @ UFES.<br>
 **Workflow**: Linux, Tmux and Neovim.<br>
 **Fun fact**: I was a police officer for 5 years.
