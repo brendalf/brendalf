@@ -1,15 +1,8 @@
-### Hi, there. Brendalf here 🙋🏽‍♂️
+Senior Machine Learning Engineer at Wildlife Studios.
 
-Interested in end-to-end machine learning/data science solutions, and software engineering/architecturing.  
-Proficient in Linux, Git, Shell, and programming languages, like C++, Python, TypeScript.
-
-I'm learning Elixir and Rust.  
-I like to spend my time reading, cooking, and contributing to open source initiatives.
-
-**Job**: Senior Machine Learning Engineer @ Wildlife Studios.<br>
-**Degree**: Bachelor's in Computer Science @ UFES.<br>
-**Workflow**: Linux, Tmux and Neovim.<br>
-**Fun fact**: I was a police officer for 5 years.
+Interested in machine learning products (end-to-end) and software engineering as a whole.  
+Proficient in Linux, Git, Vim, Shell, and programming languages, like C++, Python, TypeScript.  
+In my spare time I like to contribute to open source projects and I'm learning Elixir and Rust.
 
 ### Current Projects
 [mix.nvim](https://github.com/brendalf/mix.nvim): A Mix Wrapper for Neovim.
