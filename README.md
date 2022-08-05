@@ -1,5 +1,5 @@
 Interested in machine learning products (end-to-end) and open source tools.  
-Proficient in Linux, Git, Vim, Shell, and programming languages, like C++, Python, TypeScript.  
+Proficient in Linux, Git, Vim, Shell, and programming languages, like C++, Python, and JavaScript.  
 In my spare time I like to contribute to open source projects and I'm learning Elixir and Rust.
 
 ### Current Projects
