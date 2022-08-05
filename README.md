@@ -1,16 +1,20 @@
-## Hi, there. Brendalf here 🙋🏽‍♂️
+### Hi, there. Brendalf here 🙋🏽‍♂️
 
-Interested in end-to-end machine learning/data science solutions, and software engineering/architecturing.<br>
-Proficient in Linux, Git, Shell, and programming languages, like C++, Python, TypeScript, and Java.<br>
-<br>
-I'm learning Elixir and Rust.<br>
-I like to spend my time reading, cooking, and contributing to open source initiatives.<br>
-<br>
+Interested in end-to-end machine learning/data science solutions, and software engineering/architecturing.  
+Proficient in Linux, Git, Shell, and programming languages, like C++, Python, TypeScript.
+
+I'm learning Elixir and Rust.  
+I like to spend my time reading, cooking, and contributing to open source initiatives.
+
 **Job**: Senior Machine Learning Engineer @ Wildlife Studios.<br>
 **Degree**: Bachelor's in Computer Science @ UFES.<br>
 **Workflow**: Linux, Tmux and Neovim.<br>
 **Fun fact**: I was a police officer for 5 years.
 
+### Current Projects
+[mix.nvim](https://github.com/brendalf/mix.nvim): A Mix Wrapper for Neovim.
+
+### Stats
 <div>
   <a href="https://github.com/brendalf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendalf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
