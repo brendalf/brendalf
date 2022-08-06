@@ -11,8 +11,7 @@
 ##
 
 Interested in machine learning products (end-to-end) and open source tools.  
-Proficient in Linux, Git, Vim, Shell, and programming languages, like C++, Python, and JavaScript.  
-In my spare time I like to contribute to open source projects and I'm learning Elixir and Rust.
+Proficient in Linux, Git, Vim, Shell, and programming languages, like C++, Python, and JavaScript.
 
 Current projects:
 * [mix.nvim](https://github.com/brendalf/mix.nvim): A Mix Wrapper for Neovim.
@@ -22,5 +21,5 @@ Current projects:
 <div>
   <a href="https://github.com/brendalf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brendalf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendalf&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
