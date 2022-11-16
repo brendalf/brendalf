@@ -10,7 +10,7 @@
 
 ##
 
-Interested in machine learning products (end-to-end) and open source tools.  
+Interested in machine learning products and open source tools.  
 Proficient in Linux, Git, Shell, and programming languages, like C++, Python, and JavaScript.  
 Learning Rust and Elixir.
 
