@@ -23,7 +23,7 @@ About me:
 Current projects: 
 
 [![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=mix.nvim&theme=dracula)](https://github.com/brendalf/mix.nvim)
-[![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=cryptochain-rust&theme=dracula)](https://github.com/brendalf/cryptochain-rust)
+[![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=workhours&theme=dracula)](https://github.com/brendalf/workhours)
 
 ##
 
