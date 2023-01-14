@@ -6,28 +6,19 @@
   <a href="https://twitter.com/obrendalf" target="_blank"><img src="https://img.shields.io/badge/Twitter-55ACEE?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
-##
+<h2>About me</h2>
 
-About me:
-
-* Senior Machine Learning Engineer at Wildlife Studios, one of the biggest companies in the mobile gaming industry.
-
-* Experience in Python, SQL, Airflow, Spark, Databricks, Javascript, React.js, React Native, and Cloud Platforms (GCP and AWS).
-
+* Senior Machine Learning Engineer at Wildlife Studios, one of the biggest companies in the mobile gaming industry.<br>
+* Experience in Python, SQL, Airflow, Spark, Databricks, Javascript, React.js, React Native, and AWS.<br>
 * Interested in Linux tools, neovim, git, Machine Learning products, Rust, and Javascript frameworks.
-
 * Contributions to different open-source repositories, like Streamlit, GitHub CLI, and Lazypredict.
 
-##
-
-Current projects: 
+<h2>Current projects</h2>
 
 [![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=mix.nvim&theme=dracula)](https://github.com/brendalf/mix.nvim)
 [![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=workhours&theme=dracula)](https://github.com/brendalf/workhours)
 
-##
-
-Github stats:
+<h2>Stats</h2>
 
 <div>
   <a href="https://github.com/brendalf">
