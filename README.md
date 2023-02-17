@@ -17,6 +17,7 @@
 
 [![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=mix.nvim&theme=dracula)](https://github.com/brendalf/mix.nvim)
 [![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=workhours&theme=dracula)](https://github.com/brendalf/workhours)
+[![Readme Card](https://github-readme-stats-olive-psi.vercel.app/api/pin/?username=brendalf&repo=git-report&theme=dracula)](https://github.com/brendalf/git-report)
 
 <h2>Stats</h2>
 
