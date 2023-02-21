@@ -10,7 +10,7 @@
 
 * Senior Machine Learning Engineer at Wildlife Studios, one of the biggest companies in the mobile gaming industry.<br>
 * Experience in Python, SQL, Airflow, Spark, Databricks, Javascript, React.js, React Native, and AWS.<br>
-* Interested in Linux tools, neovim, git, Machine Learning products, Rust, and Javascript frameworks.
+* Interested in Linux tools, neovim, git, ML products, Rust, and Javascript frameworks.
 * Contributions to different open-source repositories, like Streamlit, GitHub CLI, and Lazypredict.
 
 <h2>Current projects</h2>
