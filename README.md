@@ -8,7 +8,7 @@
 
 <h2>About me</h2>
 
-* Senior Machine Learning Engineer at Wildlife Studios, one of the biggest companies in the mobile gaming industry.<br>
+* Senior Software Engineer at Bol.com.<br>
 * Experience in Python, SQL, Airflow, Spark, Databricks, Javascript, React.js, React Native, and AWS.<br>
 * Interested in Linux tools, neovim, git, ML products, Rust, and Javascript frameworks.
 * Contributions to different open-source repositories, like Streamlit, GitHub CLI, and Lazypredict.
