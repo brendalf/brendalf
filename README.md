@@ -4,7 +4,7 @@ From policing the streets with courage untold,<br>
 To scripting new futures in code's manifold.
 
 Workflow's sweet cadence, a quest I pursue,<br>
-Bol.com's engineer, crafting anew.<br>
+A software engineer, crafting anew.<br>
 Linux's command, terminal's swift dance,<br>
 Neovim and keystrokes, in symphonic trance.
 
