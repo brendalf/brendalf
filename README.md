@@ -30,5 +30,5 @@ Coding cool projects, free from restrain.
 Like the wizard who's punctual in tales of yore,<br>
 I arrive right on time, coding's secrets to explore.<br>
 So join me, dear wanderers, on this coding ride,<br>
-Wanderers united, no challenge denied.
+All of us united, no challenge denied.
 </p>
