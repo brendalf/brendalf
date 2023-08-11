@@ -1,8 +1,8 @@
 <p align="center">
-Chillin' in the Netherlands, Brazilian grace I claim,<br>
-Coding odyssey, in this digital game.<br>
-From policing the streets to a code's tale unfold,<br>
-Scripting new futures, stories untold.
+Chillin' in the Netherlands, Brazilian I am,<br>
+On a coding odyssey, with no written plan.<br>
+From policing the streets with brave untold.<br>
+Scripting new futures, bugs unfold.
 </p>
 
 <p align="center">
