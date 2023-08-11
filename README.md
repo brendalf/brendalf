@@ -9,7 +9,7 @@ To scripting new futures in code's manifold.
 Workflow's sweet cadence, a quest I pursue,<br>
 A software engineer, crafting anew.<br>
 Linux's command, terminal's swift dance,<br>
-Neovim and keystrokes, in symphonic trance.
+Neovim and tmux, in symphonic trance.
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Python, TypeScript, Rust, Go's heartbeat.
 </p>
 
 <p align="center">
-Tutorials unfurled on a personal domain,<br>
+Tutorials unfurled on a <a href="http://brendalf.github.com/" target="_blank">personal domain</a>,<br>
 Consolidating wisdom, knowledge to gain.<br>
 A GitHub story where my journey I pen,<br>
 Sharing pathways to learn, free from restrain.
