@@ -20,7 +20,7 @@ Python, TypeScript, Rust, Go, all in rhyme.
 </p>
 
 <p align="center">
-Tutorials unfurled on a <a href="http://brendalf.github.com/" target="_blank">personal domain</a>,<br>
+Tutorials unfurled on a <a href="https://brendalf.dev/" target="_blank">personal domain</a>,<br>
 Consolidating wisdom, knowledge to gain.<br>
 A GitHub story where my journey I pen,<br>
 Coding cool projects, free from restrain.
